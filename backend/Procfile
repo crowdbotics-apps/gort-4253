@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT gort_4253.wsgi:application
